@@ -1,0 +1,1 @@
+A Python programme to solve sudoku puzzles by using the backtracking algorithm. The desired sudoku box can be put as input in the matrix provided and the solve function can be run to get the solved sudoku.
